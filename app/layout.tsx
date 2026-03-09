@@ -8,6 +8,26 @@ import { defaultKeywords, siteConfig } from "@/lib/site";
 
 const socialImage = "/images/hero-steamer.jpg";
 
+const organizationJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Zephandor",
+  url: "https://zephandor.com",
+  logo: "https://zephandor.com/logo.png",
+  sameAs: [
+    "https://www.instagram.com/zephandorusa/",
+    "https://x.com/Zephandorbrand",
+    "https://www.facebook.com/profile.php?id=61587435596887",
+    "https://www.youtube.com/@Zephandorbrand",
+    "https://www.pinterest.com/zephandorofficial/",
+    "https://www.tiktok.com/@zephandorbrand",
+    "https://www.linkedin.com/in/zephandor-brand-a038b8393/",
+    "https://medium.com/@zephandor.official",
+    "https://www.tumblr.com/blog/zephandorbrand",
+    "https://www.reddit.com/user/Busy_Song1810/"
+  ]
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.domain),
   title: {
@@ -53,6 +73,12 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
+      </head>
       <body>
         <Navbar />
         <main>{children}</main>
