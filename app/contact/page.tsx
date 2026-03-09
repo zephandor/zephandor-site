@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 import { PageHero } from "@/components/page-hero";
+import { SocialLinks } from "@/components/social-links";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -51,6 +52,22 @@ export default function ContactPage() {
               </div>
             ))}
           </div>
+          <div className="mt-8 rounded-[24px] border border-purple-100 bg-haze p-6">
+            <p className="text-sm font-semibold uppercase tracking-[0.22em] text-purple-700">Official purchase channels</p>
+            <div className="mt-4 flex flex-wrap gap-3">
+              {siteConfig.marketplaceLinks.map((link) => (
+                <a
+                  key={link.label}
+                  href={link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="button-secondary"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
         </div>
         <div className="card-surface p-8">
           <h2 className="text-2xl font-semibold tracking-tight text-surface">Before you reach out</h2>
@@ -65,6 +82,12 @@ export default function ContactPage() {
               <li>General care, setup, or usage questions</li>
               <li>Wholesale or collaboration inquiries</li>
             </ul>
+          </div>
+          <div className="mt-8">
+            <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Follow Zephandor</p>
+            <div className="mt-4">
+              <SocialLinks links={siteConfig.socialLinks} tone="light" />
+            </div>
           </div>
         </div>
       </section>
