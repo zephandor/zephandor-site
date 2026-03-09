@@ -14,10 +14,10 @@ export function Footer() {
             Premium garment care for polished daily living. Zephandor designs refined tools that help clothing look intentional, fresh, and ready to wear.
           </p>
           <p className="text-sm text-white/70">{siteConfig.socialProof}</p>
-          <div className="pt-2">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/50">Follow Zephandor</p>
+          <div className="rounded-[28px] bg-white p-6 shadow-soft">
+            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500">Follow Zephandor</p>
             <div className="mt-4">
-              <SocialLinks links={siteConfig.socialLinks} tone="dark" showLabel={false} />
+              <SocialLinks links={siteConfig.socialLinks} tone="light" showLabel={false} />
             </div>
           </div>
         </div>
@@ -73,4 +73,3 @@ export function Footer() {
     </footer>
   );
 }
-

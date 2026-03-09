@@ -83,10 +83,10 @@ export default function ContactPage() {
               <li>Wholesale or collaboration inquiries</li>
             </ul>
           </div>
-          <div className="mt-8">
+          <div className="mt-8 rounded-[28px] bg-white p-6 shadow-soft">
             <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Follow Zephandor</p>
             <div className="mt-4">
-              <SocialLinks links={siteConfig.socialLinks} tone="light" />
+              <SocialLinks links={siteConfig.socialLinks} tone="light" showLabel={false} />
             </div>
           </div>
         </div>

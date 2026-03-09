@@ -71,7 +71,9 @@ export function SocialLinks({ links, tone = "dark", showLabel = true }: SocialLi
           rel="noopener noreferrer"
           aria-label={link.label}
           className={cn(
-            "group inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-medium transition-all duration-200 hover:-translate-y-0.5 hover:opacity-90",
+            showLabel
+              ? "group inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-medium transition-all duration-200 hover:-translate-y-0.5 hover:opacity-90"
+              : "group inline-flex h-14 w-14 items-center justify-center rounded-full border transition-all duration-200 hover:-translate-y-0.5 hover:opacity-90",
             tone === "dark"
               ? "border-white/10 bg-white/5 text-white/80 hover:border-white/20 hover:bg-white/10 hover:text-white"
               : "border-black/5 bg-white text-surface hover:border-purple-200 hover:bg-haze"
@@ -81,7 +83,9 @@ export function SocialLinks({ links, tone = "dark", showLabel = true }: SocialLi
             viewBox="0 0 24 24"
             aria-hidden="true"
             className={cn(
-              "h-4 w-4 fill-current transition-all duration-200 group-hover:scale-105 group-hover:brightness-110",
+              showLabel
+                ? "h-4 w-4 fill-current transition-all duration-200 group-hover:scale-105 group-hover:brightness-110"
+                : "h-6 w-6 fill-current transition-all duration-200 group-hover:scale-105 group-hover:brightness-110",
               brandColors[link.icon]
             )}
           >
