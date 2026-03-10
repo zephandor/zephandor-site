@@ -19,8 +19,8 @@ export function Navbar() {
           <Link href="/products" className="hidden text-sm font-medium text-slate-700 hover:text-surface sm:inline-flex">
             Explore Products
           </Link>
-          <Link href="/contact" className="button-primary px-5 py-2.5">
-            Contact Us
+          <Link href="/#shop-now" className="button-primary px-5 py-2.5">
+            Shop Now
           </Link>
         </div>
       </div>

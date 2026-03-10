@@ -379,7 +379,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="container-shell py-24 sm:py-28">
+      <section id="shop-now" className="container-shell py-24 sm:py-28">
         <div className="overflow-hidden rounded-[36px] bg-surface px-6 py-14 text-white sm:px-10 lg:px-14 lg:py-16">
           <p className="eyebrow text-lilac">Shop Zephandor</p>
           <h2 className="mt-4 max-w-3xl text-4xl font-semibold tracking-tight sm:text-5xl">
