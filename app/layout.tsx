@@ -38,11 +38,11 @@ export const metadata: Metadata = {
     "Discover the Zephandor 2-in-1 Garment Steamer & Dry Iron with 1200W power, 15-second heat-up, 65ml water tank, adjustable steam, and travel-friendly performance for modern garment care.",
   icons: {
     icon: [
-      { url: "/favicon.png", sizes: "32x32", type: "image/png" },
-      { url: "/favicon.png", sizes: "48x48", type: "image/png" }
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon.png", type: "image/png", sizes: "32x32" }
     ],
-    shortcut: "/favicon.png",
-    apple: "/favicon.png"
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png"
   },
   keywords: defaultKeywords,
   openGraph: {
@@ -95,4 +95,5 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
     </html>
   );
 }
+
 
