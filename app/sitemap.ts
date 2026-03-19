@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
 
-import { products } from "@/data/products";
+import { productRoutes } from "@/data/products";
+import { getLocalePath, locales } from "@/lib/i18n";
 import { siteConfig } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = [
+  const paths = [
     "",
     "/products",
     "/about",
@@ -13,15 +14,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/privacy-policy",
     "/terms-of-service",
     "/shipping-returns"
-  ].map((route) => ({
-    url: `${siteConfig.domain}${route}`,
-    lastModified: new Date()
-  }));
+  ];
 
-  const productRoutes = products.map((product) => ({
-    url: `${siteConfig.domain}/products/${product.slug}`,
-    lastModified: new Date()
-  }));
+  const staticRoutes = locales.flatMap((locale) =>
+    paths.map((path) => ({
+      url: `${siteConfig.domain}${getLocalePath(locale, path)}`,
+      lastModified: new Date()
+    }))
+  );
 
-  return [...staticRoutes, ...productRoutes];
+  const localizedProducts = locales.flatMap((locale) =>
+    productRoutes.map((slug) => ({
+      url: `${siteConfig.domain}${getLocalePath(locale, `/products/${slug}`)}`,
+      lastModified: new Date()
+    }))
+  );
+
+  return [...staticRoutes, ...localizedProducts];
 }

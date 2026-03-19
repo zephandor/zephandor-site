@@ -1,10 +1,11 @@
 import Link from "next/link";
 
+import { Locale, getLocalePath } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
 
-export function Logo({ inverse = false }: { inverse?: boolean }) {
+export function Logo({ inverse = false, locale }: { inverse?: boolean; locale: Locale }) {
   return (
-    <Link href="/" className="inline-flex items-center gap-3" aria-label="Zephandor home">
+    <Link href={getLocalePath(locale)} className="inline-flex items-center gap-3" aria-label="Zephandor home">
       <span
         className={cn(
           "flex h-10 w-10 items-center justify-center rounded-full border text-sm font-semibold",

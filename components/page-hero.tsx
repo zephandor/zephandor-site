@@ -23,9 +23,7 @@ export function PageHero({
     <section className="relative overflow-hidden border-b border-black/5 bg-hero-radial">
       <div className="container-shell py-20 sm:py-24">
         <p className="eyebrow">{eyebrow}</p>
-        <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-tight text-surface sm:text-5xl">
-          {title}
-        </h1>
+        <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-tight text-surface sm:text-5xl">{title}</h1>
         <p className="section-copy mt-6">{copy}</p>
         {(primaryHref && primaryLabel) || (secondaryHref && secondaryLabel) ? (
           <div className="mt-8 flex flex-wrap gap-3">

@@ -1,0 +1,436 @@
+{
+    "meta":  {
+                 "defaultTitle":  "Zephandor 2-en-1 Défroisseur vapeur et fer à sec | Soin textile portable 1200W pour le voyage",
+                 "titleTemplate":  "%s | Zephandor",
+                 "defaultDescription":  "Découvrez le Zephandor 2-en-1 Défroisseur vapeur et fer à sec avec puissance 1200W, chauffe en 15 secondes, réservoir de 65 ml, vapeur réglable et format pratique pour un soin du linge moderne.",
+                 "ogTitle":  "Zephandor 2-en-1 Défroisseur vapeur et fer à sec",
+                 "ogDescription":  "Un soin du linge premium dans un format compact. Chauffe rapide, vapeur réglable, mode fer à sec et praticité moderne pensée pour le voyage."
+             },
+    "nav":  {
+                "home":  "Accueil",
+                "products":  "Produits",
+                "about":  "À propos",
+                "faq":  "FAQ",
+                "contact":  "Contact",
+                "exploreProducts":  "Découvrir les produits",
+                "shopNow":  "Acheter",
+                "languageLabel":  "Langue"
+            },
+    "footer":  {
+                   "brandCopy":  "Un soin du linge premium pour un quotidien soigné. Zephandor conçoit des outils raffinés qui aident les vêtements à paraître nets, frais et prêts à porter.",
+                   "follow":  "Suivre Zephandor",
+                   "navigate":  "Navigation",
+                   "shop":  "Boutique",
+                   "support":  "Assistance",
+                   "socialProof":  "Approuvé par les foyers modernes à la recherche d’un soin soigné à la maison comme en déplacement.",
+                   "copyright":  "© 2026 Zephandor. Tous droits réservés.",
+                   "tagline":  "Conçu pour une présentation premium de la marque, la conversion sur marketplaces et un déploiement évolutif."
+               },
+    "legal":  {
+                  "privacyPolicy":  "Politique de confidentialité",
+                  "termsOfService":  "Conditions d’utilisation",
+                  "shippingReturns":  "Livraison et retours"
+              },
+    "common":  {
+                   "buyOnEtsy":  "Acheter sur Etsy",
+                   "buyOnAmazon":  "Acheter sur Amazon",
+                   "viewDetails":  "Voir les détails",
+                   "viewAllFaqs":  "Voir toutes les FAQ",
+                   "contactZephandor":  "Contacter Zephandor",
+                   "contactSupport":  "Contacter l’assistance",
+                   "askAQuestion":  "Poser une question",
+                   "productFocus":  "Focus produit",
+                   "whereToBuy":  "Où acheter",
+                   "exploreFullProductPage":  "Voir la page produit complète",
+                   "keyFeatures":  "Caractéristiques clés",
+                   "whyCustomersChooseIt":  "Pourquoi les clients le choisissent",
+                   "productNotFound":  "Produit introuvable"
+               },
+    "home":  {
+                 "meta":  {
+                              "title":  "Zephandor 2-en-1 Défroisseur vapeur et fer à sec | Soin textile portable 1200W pour le voyage",
+                              "description":  "Découvrez le Zephandor 2-en-1 Défroisseur vapeur et fer à sec avec puissance 1200W, chauffe en 15 secondes, réservoir de 65 ml, vapeur réglable et format pratique pour un soin du linge moderne."
+                          },
+                 "hero":  {
+                              "eyebrow":  "Zephandor 2-en-1 Défroisseur vapeur et fer à sec",
+                              "title":  "Un soin du linge premium pour des matins impeccables, des journées chargées et des voyages mieux préparés.",
+                              "copy":  "Un outil 2-en-1 raffiné de 1200W qui chauffe en 15 secondes, permet le repassage vapeur vertical et horizontal, et aide vos vêtements à rester nets sans l’encombrement d’un fer traditionnel.",
+                              "viewProductDetails":  "Voir les détails du produit"
+                          },
+                 "trustStrip":  [
+                                    {
+                                        "label":  "Fonction 2-en-1",
+                                        "copy":  "Défroissage vapeur vertical et repassage à sec réunis dans un outil compact et premium."
+                                    },
+                                    {
+                                        "label":  "Prêt rapidement",
+                                        "copy":  "Chauffe en 15 secondes pour les moments où vous devez partir avec une tenue impeccable."
+                                    },
+                                    {
+                                        "label":  "Soin des tissus",
+                                        "copy":  "La plaque céramique anti-goutte et la vapeur réglable aident à préserver la finition de vos vêtements."
+                                    },
+                                    {
+                                        "label":  "Achat direct",
+                                        "copy":  "Achetez via la fiche Etsy active dès maintenant et directement sur Amazon via la page produit officielle Zephandor."
+                                    }
+                                ],
+                 "featureSection":  {
+                                        "eyebrow":  "Points forts",
+                                        "title":  "L’essentiel, concentré dans un format élégant pour un usage quotidien",
+                                        "copy":  "Zephandor n’est pas seulement compact. Chaque spécification a été pensée pour offrir des performances rapides, une manipulation plus propre et une polyvalence plus élégante à la maison comme en voyage.",
+                                        "detailLabel":  "Détail Zephandor"
+                                    },
+                 "technology":  {
+                                    "eyebrow":  "Technologie",
+                                    "title":  "Une démonstration visuelle claire de la performance Zephandor",
+                                    "copy":  "L’histoire technologique est désormais soutenue par de vraies images produit, montrant à la fois le système de diffusion vapeur et l’interface de commande LED, sans changer la structure premium de la page."
+                                },
+                 "featuredProduct":  {
+                                         "eyebrow":  "Produit vedette",
+                                         "title":  "La page produit doit refléter le produit lui-même : sûre, raffinée et prête à convertir",
+                                         "copy":  "Cette section phare place le Zephandor 2-en-1 Défroisseur vapeur et fer à sec au centre de l’expérience de marque, avec des parcours d’achat plus clairs et un récit produit plus premium."
+                                     },
+                 "why":  {
+                             "eyebrow":  "Pourquoi Zephandor",
+                             "title":  "Une référence plus nette et plus élégante pour le soin du linge au quotidien",
+                             "copy":  "Zephandor s’adresse aux clients qui veulent des essentiels pensés avec soin. Nous réunissons sobriété visuelle premium, performance pratique et clarté du parcours d’achat dans une seule expérience de marque cohérente.",
+                             "items":  [
+                                           {
+                                               "title":  "Praticité premium",
+                                               "copy":  "Zephandor accorde de l’importance aux détails qui élèvent l’usage quotidien : lignes épurées, mise en température rapide et performances solides sans l’encombrement d’une installation de repassage classique."
+                                           },
+                                           {
+                                               "title":  "Pensé pour les vrais usages",
+                                               "copy":  "Du défroissage vertical à la maison aux retouches horizontales dans une chambre d’hôtel, le format 2-en-1 s’adapte à la manière dont les garde-robes modernes sont réellement entretenues."
+                                           },
+                                           {
+                                               "title":  "Une marque fondée sur la confiance",
+                                               "copy":  "Des informations produit claires, une intention d’achat directe et une esthétique premium maîtrisée permettent aux clients de se sentir en confiance du premier regard jusqu’au paiement."
+                                           }
+                                       ]
+                         },
+                 "performance":  {
+                                     "eyebrow":  "Performance",
+                                     "title":  "Une réduction visible des plis portée par une puissance compacte de 1200W",
+                                     "copy":  "Le Zephandor 2-en-1 est conçu pour des situations réelles, pas seulement pour une fiche technique. Il accompagne la routine du matin à la maison, le court délai avant un rendez-vous et la valise où chaque place compte."
+                                 },
+                 "useCases":  [
+                                  {
+                                      "title":  "À la maison",
+                                      "copy":  "Rafraîchissez vêtements de travail, tenues d’occasion, rideaux et pièces du quotidien avec un outil compact qu’on a envie de garder à portée de main."
+                                  },
+                                  {
+                                      "title":  "Voyages professionnels",
+                                      "copy":  "Arrivez avec une garde-robe plus soignée sans dépendre des fers d’hôtel souvent peu fiables avant une réunion ou un événement."
+                                  },
+                                  {
+                                      "title":  "Valises de vacances",
+                                      "copy":  "Voyagez plus léger avec un appareil 2-en-1 compact qui prend en charge la vapeur et les retouches à sec quand l’espace est limité."
+                                  },
+                                  {
+                                      "title":  "Retouches rapides quotidiennes",
+                                      "copy":  "Profitez de la chauffe en 15 secondes pour lisser cols, ourlets et faux plis de dernière minute avant de sortir."
+                                  }
+                              ],
+                 "fabricCompatibility":  {
+                                             "eyebrow":  "Compatibilité des tissus",
+                                             "title":  "Sûr sur les types de tissus les plus courants et les plus importants pour les clients",
+                                             "copy":  "La section de compatibilité utilise désormais directement les visuels du produit afin de présenter le support textile de manière plus claire, tout en conservant la lisibilité premium de l’expérience Zephandor."
+                                         },
+                 "faqPreview":  {
+                                    "eyebrow":  "Aperçu FAQ",
+                                    "title":  "Quelques réponses rapides avant de choisir votre canal d’achat",
+                                    "copy":  "L’objectif est une décision plus sûre : des faits produit clairs, des attentes claires et un accès rapide aux informations que les clients veulent généralement avant d’acheter."
+                                },
+                 "shop":  {
+                              "eyebrow":  "Acheter Zephandor",
+                              "title":  "Choisissez la fiche produit qui correspond à votre façon d’acheter, avec Amazon et Etsy comme options officielles.",
+                              "copy":  "La fiche Etsy est active pour un achat direct. Amazon est également disponible comme canal d’achat direct, offrant deux moyens fiables d’acheter sans changer l’expérience de marque Zephandor.",
+                              "buyOnEtsy":  "Acheter Zephandor sur Etsy"
+                          }
+             },
+    "about":  {
+                  "meta":  {
+                               "title":  "À propos",
+                               "description":  "Découvrez l’approche premium et moderne de Zephandor en matière de soin du linge et de confiance client."
+                           },
+                  "hero":  {
+                               "eyebrow":  "À propos de Zephandor",
+                               "title":  "Une marque premium de soin du linge pensée autour de la maîtrise, de la praticité et de la confiance moderne",
+                               "copy":  "Zephandor existe pour rendre le soin du linge plus léger, plus net et plus intentionnel. Nous créons pour les clients qui recherchent des résultats soignés à la maison, dans les petits espaces et en voyage."
+                           },
+                  "title":  "Pensé pour les détails que l’on remarque",
+                  "paragraphs":  [
+                                     "D’un col sans pli à l’assurance de sortir prêt, Zephandor se concentre sur les moments où le soin du linge améliore discrètement le quotidien. Nos produits sont choisis et présentés pour soutenir ce sentiment de préparation.",
+                                     "Nous comprenons aussi où se font de nombreux achats aujourd’hui. C’est pourquoi ce site a été conçu pour offrir une expérience de marque premium tout en guidant les clients naturellement vers nos fiches Amazon et Etsy."
+                                 ],
+                  "principles":  [
+                                     {
+                                         "title":  "La confiance par la clarté",
+                                         "copy":  "Nous présentons produits, politiques et liens marketplace dans un langage direct afin que les clients sachent exactement à quoi s’attendre."
+                                     },
+                                     {
+                                         "title":  "Premium sans excès",
+                                         "copy":  "Notre langage visuel est minimal et maîtrisé, car la qualité doit sembler posée plutôt qu’exagérée."
+                                     },
+                                     {
+                                         "title":  "Utilité et élégance",
+                                         "copy":  "Les produits Zephandor sont conçus pour les routines réelles, où performance solide et raffinement visuel doivent coexister."
+                                     }
+                                 ]
+              },
+    "productsPage":  {
+                         "meta":  {
+                                      "title":  "Produits",
+                                      "description":  "Découvrez les produits premium de soin du linge Zephandor, dont le 2-en-1 Défroisseur vapeur et fer à sec."
+                                  },
+                         "hero":  {
+                                      "eyebrow":  "Produits",
+                                      "title":  "Le soin du linge professionnel, réduit à l’essentiel",
+                                      "copy":  "Parcourez les produits Zephandor conçus pour offrir des résultats plus soignés, des routines plus simples et des parcours d’achat directs vers des marketplaces de confiance."
+                                  }
+                     },
+    "faqPage":  {
+                    "meta":  {
+                                 "title":  "FAQ",
+                                 "description":  "Consultez les questions fréquentes sur les produits Zephandor, les canaux de commande, les tissus, le voyage et l’assistance."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Questions fréquentes",
+                                 "title":  "Des réponses claires pour acheter en toute confiance",
+                                 "copy":  "Retrouvez des informations sur les performances du produit, les tissus compatibles, l’usage en voyage et la manière dont les commandes Zephandor sont gérées sur Amazon et Etsy."
+                             }
+                },
+    "contact":  {
+                    "meta":  {
+                                 "title":  "Contact",
+                                 "description":  "Contactez Zephandor pour toute question sur le produit, l’assistance ou les marketplaces avant votre achat."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Contact",
+                                 "title":  "Contactez Zephandor en toute confiance",
+                                 "copy":  "Que vous ayez besoin d’aide pour choisir le bon canal d’achat ou des questions sur l’adéquation du produit, notre équipe est là pour vous accompagner dans une expérience fluide."
+                             },
+                    "supportInformation":  "Informations d’assistance",
+                    "responseWindowValue":  "Du lundi au vendredi, sous 1 à 2 jours ouvrés",
+                    "contactItems":  {
+                                         "supportEmail":  "E-mail d’assistance",
+                                         "phone":  "Téléphone",
+                                         "responseWindow":  "Délai de réponse"
+                                     },
+                    "officialPurchaseChannels":  "Canaux d’achat officiels",
+                    "beforeReachOut":  "Avant de nous écrire",
+                    "beforeReachOutCopy":  "Pour les mises à jour de commande, les retours ou les questions de livraison concernant un achat Amazon ou Etsy existant, le moyen le plus rapide est généralement la messagerie de la marketplace où la commande a été passée. Si vous hésitez sur le lieu d’achat ou si vous avez besoin d’un conseil produit général, l’e-mail d’assistance est idéal.",
+                    "suggestedTopics":  "Sujets suggérés pour votre e-mail",
+                    "topics":  [
+                                   "Compatibilité du produit avec certains tissus",
+                                   "Conseils entre Amazon et Etsy",
+                                   "Questions générales sur l’entretien, la mise en route ou l’utilisation",
+                                   "Demandes de collaboration ou de vente en gros"
+                               ]
+                },
+    "privacy":  {
+                    "meta":  {
+                                 "title":  "Politique de confidentialité",
+                                 "description":  "Consultez la politique de confidentialité Zephandor concernant les données du site, les formulaires de contact et les communications liées aux marketplaces."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Politique de confidentialité",
+                                 "title":  "Comment Zephandor traite les informations avec soin",
+                                 "copy":  "Cette politique explique quelles informations limitées sont collectées via le site Zephandor et comment elles peuvent être utilisées pour accompagner la communication client et améliorer l’expérience de navigation."
+                             },
+                    "sections":  [
+                                     {
+                                         "title":  "Informations collectées",
+                                         "copy":  "Zephandor peut collecter les informations que vous fournissez volontairement, comme votre nom, votre adresse e-mail et le contenu de votre message lorsque vous nous contactez. Des données techniques de base, telles que le type de navigateur, les informations sur l’appareil et l’activité sur les pages, peuvent aussi être collectées à des fins d’analyse et de performance du site."
+                                     },
+                                     {
+                                         "title":  "Utilisation des informations",
+                                         "copy":  "Les informations sont utilisées pour répondre aux demandes d’assistance, améliorer les performances du site, maintenir la sécurité et mieux comprendre quelles pages et quels détails produit sont les plus utiles aux visiteurs."
+                                     },
+                                     {
+                                         "title":  "Achats sur marketplace",
+                                         "copy":  "Les achats réalisés sur Amazon ou Etsy sont également soumis aux pratiques de confidentialité de ces plateformes. Zephandor ne contrôle pas les politiques indépendantes des marketplaces tierces."
+                                     },
+                                     {
+                                         "title":  "Partage des données",
+                                         "copy":  "Zephandor ne vend pas les informations personnelles. Certaines données limitées peuvent être partagées avec des prestataires qui aident à faire fonctionner le site, à fournir des analyses ou à gérer les communications, uniquement lorsque cela est raisonnablement nécessaire."
+                                     },
+                                     {
+                                         "title":  "Vos choix",
+                                         "copy":  "Vous pouvez contacter Zephandor pour demander la mise à jour ou la suppression des informations partagées précédemment via ce site, sous réserve des exigences légales et opérationnelles."
+                                     }
+                                 ]
+                },
+    "terms":  {
+                  "meta":  {
+                               "title":  "Conditions d’utilisation",
+                               "description":  "Consultez les conditions Zephandor relatives à l’utilisation du site, aux informations produit, aux achats via des marketplaces tierces et aux responsabilités des clients."
+                           },
+                  "hero":  {
+                               "eyebrow":  "Conditions d’utilisation",
+                               "title":  "Les conditions qui régissent l’utilisation du site Zephandor",
+                               "copy":  "Ces conditions expliquent comment les visiteurs peuvent utiliser le site Zephandor, comment les informations produit sont présentées et comment les achats via des marketplaces tierces sont gérés."
+                           },
+                  "sections":  [
+                                   {
+                                       "title":  "Utilisation du site",
+                                       "copy":  "En utilisant ce site, vous acceptez de le faire de manière légale et sans perturber l’accès, la sécurité ou l’expérience des autres visiteurs."
+                                   },
+                                   {
+                                       "title":  "Informations produit",
+                                       "copy":  "Zephandor s’efforce de présenter des informations produit exactes et à jour, mais les caractéristiques, disponibilités, prix et détails des fiches peuvent changer sans préavis. La fiche active au moment de l’achat fait foi pour les détails finaux de la transaction."
+                                   },
+                                   {
+                                       "title":  "Transactions sur marketplace",
+                                       "copy":  "Les achats effectués via Amazon ou Etsy sont régis par les processus de paiement, conditions et protections acheteur de ces plateformes. Zephandor n’est pas responsable des interruptions, changements de politique ou problèmes de compte propres à ces marketplaces."
+                                   },
+                                   {
+                                       "title":  "Propriété intellectuelle",
+                                       "copy":  "Tous les textes du site, éléments de marque, mises en page et créations originales restent la propriété de Zephandor sauf mention contraire et ne peuvent pas être réutilisés sans autorisation."
+                                   },
+                                   {
+                                       "title":  "Mises à jour",
+                                       "copy":  "Ces conditions peuvent être mises à jour périodiquement. La poursuite de l’utilisation du site après publication des modifications vaut acceptation des conditions révisées."
+                                   }
+                               ]
+              },
+    "shipping":  {
+                     "meta":  {
+                                  "title":  "Livraison et retours",
+                                  "description":  "Consultez les informations Zephandor sur la livraison, les retours et la gestion des commandes via Amazon et Etsy."
+                              },
+                     "hero":  {
+                                  "eyebrow":  "Livraison et retours",
+                                  "title":  "Des indications claires sur les délais de livraison et l’assistance après achat",
+                                  "copy":  "Zephandor s’engage à offrir des attentes claires avant le paiement. Comme les achats sont effectués sur Amazon ou Etsy, certains détails de livraison et de retour sont finalisés par la marketplace choisie."
+                              },
+                     "sections":  [
+                                      {
+                                          "title":  "Traitement des commandes",
+                                          "copy":  "Les délais de traitement varient selon la fiche produit et la marketplace. Les clients doivent consulter l’estimation de livraison affichée sur la page Amazon ou Etsy concernée avant de passer commande."
+                                      },
+                                      {
+                                          "title":  "Délais de livraison",
+                                          "copy":  "Les délais d’expédition dépendent de la destination, de la disponibilité des stocks et des conditions du transporteur. Les informations de suivi de la marketplace restent la source la plus fiable pour les mises à jour en direct après l’achat."
+                                      },
+                                      {
+                                          "title":  "Retours",
+                                          "copy":  "Si votre commande a été passée sur Amazon ou Etsy, l’éligibilité au retour et la procédure correspondante sont régies par la politique de cette plateforme et par les conditions de la fiche produit. Veuillez lancer la demande depuis votre compte de commande pour une résolution plus rapide."
+                                      },
+                                      {
+                                          "title":  "Commandes endommagées ou incorrectes",
+                                          "copy":  "Si un article arrive endommagé ou ne correspond pas à la fiche, contactez le support de la marketplace liée à votre commande et conservez l’emballage, les photos et les détails de la commande."
+                                      },
+                                      {
+                                          "title":  "Besoin d’aide supplémentaire ?",
+                                          "copy":  "Pour toute question générale sur le produit avant commande, veuillez consulter la page Contact. Pour les commandes actives, commencez toujours par la marketplace sur laquelle l’achat a été effectué."
+                                      }
+                                  ]
+                 },
+    "product":  {
+                    "meta":  {
+                                 "notFoundTitle":  "Produit introuvable"
+                             },
+                    "category":  "Essentiel phare pour le soin des tissus",
+                    "name":  "Zephandor 2-en-1 Défroisseur vapeur et fer à sec",
+                    "tagline":  "Un soin du linge au niveau premium dans un outil compact pensé pour la maison, le voyage et la mise en beauté quotidienne.",
+                    "description":  "Zephandor associe vapeur verticale et repassage à sec dans un design 2-en-1 raffiné, pour offrir une chauffe rapide, un soin respectueux des tissus et une façon plus élégante de garder les vêtements impeccables.",
+                    "features":  [
+                                     "Puissance 1200W pour un défroissage régulier et efficace",
+                                     "Prêt en 15 secondes pour les retouches rapides du quotidien",
+                                     "Réservoir de 65 ml pour une utilisation légère et adaptée au voyage",
+                                     "Vapeur verticale et horizontale pour un entretien plus flexible",
+                                     "Plaque céramique anti-goutte pour une finition plus douce sur les tissus délicats comme sur les pièces du quotidien",
+                                     "Vapeur réglable selon les besoins de chaque tissu",
+                                     "Arrêt automatique pour plus de sérénité pendant l’utilisation",
+                                     "Format compact adapté au rangement à la maison, aux déplacements professionnels et aux valises de vacances"
+                                 ],
+                    "highlights":  [
+                                       {
+                                           "label":  "Puissance",
+                                           "value":  "1200W"
+                                       },
+                                       {
+                                           "label":  "Chauffe rapide",
+                                           "value":  "15s"
+                                       },
+                                       {
+                                           "label":  "Réservoir",
+                                           "value":  "65ml"
+                                       },
+                                       {
+                                           "label":  "Modes vapeur",
+                                           "value":  "Vertical + horizontal"
+                                       }
+                                   ],
+                    "benefits":  [
+                                     "Gardez vos pièces impeccables à la maison sans sortir tout un équipement de repassage.",
+                                     "Voyagez avec un outil compact au lieu d’emporter des solutions séparées pour la vapeur et le repassage.",
+                                     "Gérez les retouches avant réunions, dîners, départs et routines quotidiennes avec moins d’effort."
+                                 ],
+                    "featureHighlights":  [
+                                              {
+                                                  "label":  "Puissance 1200W",
+                                                  "detail":  "Une sortie stable et régulière pour défroisser rapidement."
+                                              },
+                                              {
+                                                  "label":  "Chauffe en 15s",
+                                                  "detail":  "Prêt rapidement lorsque le temps manque et que la présentation compte."
+                                              },
+                                              {
+                                                  "label":  "Réservoir 65ml",
+                                                  "detail":  "Dimensionné pour une prise en main facile et un rangement compact dans la valise."
+                                              },
+                                              {
+                                                  "label":  "Plaque céramique anti-goutte",
+                                                  "detail":  "Un contact plus fluide avec les tissus et une finition plus nette."
+                                              },
+                                              {
+                                                  "label":  "Vapeur réglable",
+                                                  "detail":  "Plus de contrôle sur les vêtements délicats comme sur les essentiels du quotidien."
+                                              },
+                                              {
+                                                  "label":  "Arrêt automatique",
+                                                  "detail":  "Une tranquillité supplémentaire pour l’usage quotidien comme pour les déplacements."
+                                              },
+                                              {
+                                                  "label":  "Design adapté au voyage",
+                                                  "detail":  "Pensé pour passer facilement du dressing à la valise puis à la chambre d’hôtel."
+                                              }
+                                          ]
+                },
+    "faqs":  [
+                 {
+                     "question":  "Quels tissus le Zephandor 2-en-1 peut-il traiter ?",
+                     "answer":  "Il est conçu pour une large gamme de tissus du quotidien, notamment le coton, le lin, la laine, la soie, le polyester et les vêtements mélangés. Comme pour tout appareil chauffant d’entretien textile, il est conseillé de tester d’abord sur les ornements délicats et les finitions spéciales."
+                 },
+                 {
+                     "question":  "En combien de temps est-il prêt à l’emploi ?",
+                     "answer":  "L’appareil chauffe en environ 15 secondes, ce qui le rend idéal pour des retouches soignées de dernière minute avant une réunion, un événement ou un départ."
+                 },
+                 {
+                     "question":  "Convient-il au voyage ?",
+                     "answer":  "Oui. Son format compact et son réservoir de 65 ml ont été choisis pour garder l’appareil léger et facile à emporter, sans compromettre une performance premium."
+                 },
+                 {
+                     "question":  "Où puis-je acheter les produits Zephandor ?",
+                     "answer":  "Les produits Zephandor sont disponibles via des fiches marketplace soigneusement gérées sur Amazon et Etsy, accessibles directement depuis ce site."
+                 },
+                 {
+                     "question":  "Le défroisseur intègre-t-il une protection de sécurité automatique ?",
+                     "answer":  "Oui. Le produit comprend une fonction d’arrêt automatique pour favoriser une utilisation plus sûre au quotidien et davantage de tranquillité d’esprit."
+                 },
+                 {
+                     "question":  "Comment fonctionnent les retours et la livraison ?",
+                     "answer":  "Le traitement des commandes, les délais de livraison et les politiques de retour peuvent varier légèrement selon le canal de vente. Notre page Livraison et retours présente la politique standard Zephandor et explique la gestion des commandes Amazon et Etsy."
+                 }
+             ],
+    "notFound":  {
+                     "title":  "Cette page est introuvable.",
+                     "copy":  "Le lien a peut-être changé ou la page n’est plus disponible. Vous pouvez revenir à l’accueil ou continuer à parcourir la collection de produits.",
+                     "goHome":  "Retour à l’accueil",
+                     "viewProducts":  "Voir les produits"
+                 }
+}

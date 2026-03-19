@@ -1,0 +1,436 @@
+{
+    "meta":  {
+                 "defaultTitle":  "Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron | Portable 1200W Travel Fabric Care",
+                 "titleTemplate":  "%s | Zephandor",
+                 "defaultDescription":  "Discover the Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron with 1200W power, 15-second heat-up, 65ml water tank, adjustable steam, and travel-friendly performance for modern garment care.",
+                 "ogTitle":  "Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron",
+                 "ogDescription":  "Premium garment care in a compact design. Fast heat-up, adjustable steam, dry iron mode, and modern travel-ready convenience."
+             },
+    "nav":  {
+                "home":  "Home",
+                "products":  "Products",
+                "about":  "About",
+                "faq":  "FAQ",
+                "contact":  "Contact",
+                "exploreProducts":  "Explore Products",
+                "shopNow":  "Shop Now",
+                "languageLabel":  "Language"
+            },
+    "footer":  {
+                   "brandCopy":  "Premium garment care for polished daily living. Zephandor designs refined tools that help clothing look intentional, fresh, and ready to wear.",
+                   "follow":  "Follow Zephandor",
+                   "navigate":  "Navigate",
+                   "shop":  "Shop",
+                   "support":  "Support",
+                   "socialProof":  "Trusted by modern households seeking polished care at home and on the go.",
+                   "copyright":  "© 2026 Zephandor. All rights reserved.",
+                   "tagline":  "Built for premium brand presentation, marketplace conversion, and scalable deployment."
+               },
+    "legal":  {
+                  "privacyPolicy":  "Privacy Policy",
+                  "termsOfService":  "Terms of Service",
+                  "shippingReturns":  "Shipping \u0026 Returns"
+              },
+    "common":  {
+                   "buyOnEtsy":  "Buy on Etsy",
+                   "buyOnAmazon":  "Buy on Amazon",
+                   "viewDetails":  "View Details",
+                   "viewAllFaqs":  "View All FAQs",
+                   "contactZephandor":  "Contact Zephandor",
+                   "contactSupport":  "Contact Support",
+                   "askAQuestion":  "Ask a Question",
+                   "productFocus":  "Product Focus",
+                   "whereToBuy":  "Where to buy",
+                   "exploreFullProductPage":  "Explore the full product page",
+                   "keyFeatures":  "Key features",
+                   "whyCustomersChooseIt":  "Why customers choose it",
+                   "productNotFound":  "Product Not Found"
+               },
+    "home":  {
+                 "meta":  {
+                              "title":  "Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron | Portable 1200W Travel Fabric Care",
+                              "description":  "Discover the Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron with 1200W power, 15-second heat-up, 65ml water tank, adjustable steam, and travel-friendly performance for modern garment care."
+                          },
+                 "hero":  {
+                              "eyebrow":  "Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron",
+                              "title":  "Premium garment care for polished mornings, packed schedules, and better travel.",
+                              "copy":  "A refined 1200W 2-in-1 tool that heats in 15 seconds, supports vertical and horizontal steaming, and helps garments look crisp without the weight of a full ironing setup.",
+                              "viewProductDetails":  "View Product Details"
+                          },
+                 "trustStrip":  [
+                                    {
+                                        "label":  "2-in-1 function",
+                                        "copy":  "Vertical steaming and dry ironing in one compact premium tool."
+                                    },
+                                    {
+                                        "label":  "Fast readiness",
+                                        "copy":  "15-second heat-up for the moments when you need to leave looking composed."
+                                    },
+                                    {
+                                        "label":  "Fabric care",
+                                        "copy":  "Drip-free ceramic contact and adjustable steam help protect the finish of your garments."
+                                    },
+                                    {
+                                        "label":  "Purchase intent",
+                                        "copy":  "Shop the live Etsy listing now and buy directly on Amazon through the official Zephandor product page."
+                                    }
+                                ],
+                 "featureSection":  {
+                                        "eyebrow":  "Feature Highlights",
+                                        "title":  "Everything important, distilled into a sleek daily-use format",
+                                        "copy":  "Zephandor is not just compact. It is purposefully specified to deliver fast performance, cleaner handling, and more elegant versatility across home and travel routines.",
+                                        "detailLabel":  "Zephandor Detail"
+                                    },
+                 "technology":  {
+                                    "eyebrow":  "Technology",
+                                    "title":  "Engineered visual proof for how Zephandor performs",
+                                    "copy":  "The technology story is now supported by real product imagery, showing both the steam delivery system and the LED control interface without changing the premium structure of the page."
+                                },
+                 "featuredProduct":  {
+                                         "eyebrow":  "Featured Product",
+                                         "title":  "The product page should feel like the product itself: confident, refined, and ready to convert",
+                                         "copy":  "This flagship section puts the Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron at the center of the brand experience, with clearer purchase pathways and a more premium product story."
+                                     },
+                 "why":  {
+                             "eyebrow":  "Why Zephandor",
+                             "title":  "A cleaner, more elevated standard for everyday garment care",
+                             "copy":  "Zephandor is designed for customers who want their essentials to feel considered. We bring premium visual restraint, practical performance, and direct purchase clarity into one focused brand experience.",
+                             "items":  [
+                                           {
+                                               "title":  "Premium practicality",
+                                               "copy":  "Zephandor focuses on the details that elevate daily use: clean form, fast readiness, and strong performance without the bulk of a traditional iron setup."
+                                           },
+                                           {
+                                               "title":  "Designed for real routines",
+                                               "copy":  "From vertical steaming at home to horizontal touch-ups in a hotel room, the 2-in-1 format adapts to the way modern wardrobes are actually maintained."
+                                           },
+                                           {
+                                               "title":  "A brand built for trust",
+                                               "copy":  "Clear product facts, direct purchase intent, and a restrained premium aesthetic help customers feel confident from first impression to checkout."
+                                           }
+                                       ]
+                         },
+                 "performance":  {
+                                     "eyebrow":  "Performance",
+                                     "title":  "Visible wrinkle reduction powered by compact 1200W performance",
+                                     "copy":  "The Zephandor 2-in-1 is built for real context, not just product specs. It fits the morning routine at home, the short turnaround before a meeting, and the suitcase where space matters."
+                                 },
+                 "useCases":  [
+                                  {
+                                      "title":  "Home",
+                                      "copy":  "Refresh workwear, occasion pieces, curtains, and everyday garments with a compact tool that feels easy to reach for."
+                                  },
+                                  {
+                                      "title":  "Business travel",
+                                      "copy":  "Arrive with a sharper wardrobe and avoid relying on inconsistent hotel irons before meetings or events."
+                                  },
+                                  {
+                                      "title":  "Vacation packing",
+                                      "copy":  "Travel lighter with one compact 2-in-1 device that handles steam and dry-iron touch-ups in limited space."
+                                  },
+                                  {
+                                      "title":  "Quick daily touch-ups",
+                                      "copy":  "Use the 15-second heat-up to smooth collars, hems, and last-minute wrinkles before heading out."
+                                  }
+                              ],
+                 "fabricCompatibility":  {
+                                             "eyebrow":  "Fabric Compatibility",
+                                             "title":  "Safe across the common fabric types customers care about most",
+                                             "copy":  "The compatibility section now uses the product imagery directly so fabric support is presented visually, while still reinforcing the premium clarity of the Zephandor experience."
+                                         },
+                 "faqPreview":  {
+                                    "eyebrow":  "FAQ Preview",
+                                    "title":  "A few quick answers before you choose your purchase channel",
+                                    "copy":  "The goal is a more confident decision: clear product facts, clear expectations, and quick access to the information customers usually want before buying."
+                                },
+                 "shop":  {
+                              "eyebrow":  "Shop Zephandor",
+                              "title":  "Choose the live listing that fits how you prefer to buy, and keep Amazon ready as the next expansion point.",
+                              "copy":  "The Etsy listing is active now for direct purchase. Amazon is now live as a direct purchase path as well, giving customers two trusted ways to buy without changing the Zephandor brand experience.",
+                              "buyOnEtsy":  "Buy Zephandor on Etsy"
+                          }
+             },
+    "about":  {
+                  "meta":  {
+                               "title":  "About",
+                               "description":  "Learn about Zephandor\u0027s premium, modern approach to garment care and customer trust."
+                           },
+                  "hero":  {
+                               "eyebrow":  "About Zephandor",
+                               "title":  "A premium garment care brand shaped around composure, convenience, and modern trust",
+                               "copy":  "Zephandor exists to make garment care feel lighter, cleaner, and more intentional. We build for customers who want polished results at home, in compact spaces, and while traveling."
+                           },
+                  "title":  "Designed for the details people notice",
+                  "paragraphs":  [
+                                     "From a wrinkle-free collar to the confidence of stepping out prepared, Zephandor focuses on the moments garment care quietly improves. Our products are chosen and presented to support that sense of readiness.",
+                                     "We also understand where many purchases happen today. That is why this website is built to create a premium brand experience while guiding customers seamlessly toward our Amazon and Etsy listings."
+                                 ],
+                  "principles":  [
+                                     {
+                                         "title":  "Trust through clarity",
+                                         "copy":  "We present products, policies, and marketplace links with straightforward language so customers know exactly what to expect."
+                                     },
+                                     {
+                                         "title":  "Premium without excess",
+                                         "copy":  "Our design language is minimal and controlled because quality should feel composed rather than overstated."
+                                     },
+                                     {
+                                         "title":  "Utility with elegance",
+                                         "copy":  "Zephandor products are built for real routines, where strong performance and visual refinement need to coexist."
+                                     }
+                                 ]
+              },
+    "productsPage":  {
+                         "meta":  {
+                                      "title":  "Products",
+                                      "description":  "Explore premium Zephandor garment care products, including the featured 2-in-1 Garment Steamer \u0026 Dry Iron."
+                                  },
+                         "hero":  {
+                                      "eyebrow":  "Products",
+                                      "title":  "Professional garment care, edited down to the essentials",
+                                      "copy":  "Browse Zephandor products crafted to deliver elevated results, cleaner routines, and direct paths to purchase on trusted marketplaces."
+                                  }
+                     },
+    "faqPage":  {
+                    "meta":  {
+                                 "title":  "FAQ",
+                                 "description":  "Read common questions about Zephandor products, ordering channels, fabrics, travel use, and support."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Frequently Asked Questions",
+                                 "title":  "Clear answers for a more confident purchase",
+                                 "copy":  "Find details about product performance, supported fabrics, travel use, and how Zephandor orders are handled across Amazon and Etsy."
+                             }
+                },
+    "contact":  {
+                    "meta":  {
+                                 "title":  "Contact",
+                                 "description":  "Contact Zephandor for product questions, support inquiries, or marketplace guidance before you purchase."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Contact",
+                                 "title":  "Reach Zephandor with confidence",
+                                 "copy":  "Whether you need help choosing the right purchase channel or have questions about product fit, our team is here to support a smooth experience."
+                             },
+                    "supportInformation":  "Support information",
+                    "responseWindowValue":  "Monday to Friday, within 1-2 business days",
+                    "contactItems":  {
+                                         "supportEmail":  "Support email",
+                                         "phone":  "Phone",
+                                         "responseWindow":  "Response window"
+                                     },
+                    "officialPurchaseChannels":  "Official purchase channels",
+                    "beforeReachOut":  "Before you reach out",
+                    "beforeReachOutCopy":  "For order-specific updates, returns, or shipping questions on an existing Amazon or Etsy purchase, the fastest path is usually the message center for the marketplace where the order was placed. If you are deciding where to buy or need general product guidance, email support is ideal.",
+                    "suggestedTopics":  "Suggested email topics",
+                    "topics":  [
+                                   "Product compatibility for specific fabrics",
+                                   "Marketplace guidance between Amazon and Etsy",
+                                   "General care, setup, or usage questions",
+                                   "Wholesale or collaboration inquiries"
+                               ]
+                },
+    "privacy":  {
+                    "meta":  {
+                                 "title":  "Privacy Policy",
+                                 "description":  "Read the Zephandor privacy policy covering website data, contact submissions, and marketplace-related customer communication."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Privacy Policy",
+                                 "title":  "How Zephandor handles information with care",
+                                 "copy":  "This policy explains the limited information collected through the Zephandor website and how it may be used to support customer communication and improve the browsing experience."
+                             },
+                    "sections":  [
+                                     {
+                                         "title":  "Information we collect",
+                                         "copy":  "Zephandor may collect information you voluntarily provide, such as your name, email address, and message details when contacting us. Basic technical data such as browser type, device information, and page activity may also be collected for analytics and site performance."
+                                     },
+                                     {
+                                         "title":  "How information is used",
+                                         "copy":  "Information is used to respond to support requests, improve website performance, maintain security, and better understand which pages and product details are most helpful to visitors."
+                                     },
+                                     {
+                                         "title":  "Marketplace purchases",
+                                         "copy":  "Purchases completed on Amazon or Etsy are also subject to those platforms\u0027 privacy practices. Zephandor does not control the independent policies of third-party marketplaces."
+                                     },
+                                     {
+                                         "title":  "Data sharing",
+                                         "copy":  "Zephandor does not sell personal information. Limited data may be shared with service providers who help operate the website, support analytics, or process communication, but only when reasonably necessary."
+                                     },
+                                     {
+                                         "title":  "Your choices",
+                                         "copy":  "You may contact Zephandor to request updates or deletion of information previously shared through this website, subject to legal and operational requirements."
+                                     }
+                                 ]
+                },
+    "terms":  {
+                  "meta":  {
+                               "title":  "Terms of Service",
+                               "description":  "Review the Zephandor terms covering website use, product information, third-party marketplace purchases, and customer responsibilities."
+                           },
+                  "hero":  {
+                               "eyebrow":  "Terms of Service",
+                               "title":  "The terms that govern use of the Zephandor website",
+                               "copy":  "These terms outline how visitors may use the Zephandor website, how product information is presented, and how third-party marketplace purchases are handled."
+                           },
+                  "sections":  [
+                                   {
+                                       "title":  "Website use",
+                                       "copy":  "By using this website, you agree to use it lawfully and in a way that does not disrupt access, security, or the experience of other visitors."
+                                   },
+                                   {
+                                       "title":  "Product information",
+                                       "copy":  "Zephandor aims to present accurate, current product information, but specifications, availability, prices, and listing details may change without notice. The marketplace listing in effect at the time of purchase controls the final transaction details."
+                                   },
+                                   {
+                                       "title":  "Marketplace transactions",
+                                       "copy":  "Purchases completed through Amazon or Etsy are governed by those platforms\u0027 checkout processes, terms, and buyer protections. Zephandor is not responsible for independent marketplace outages, policy changes, or account issues."
+                                   },
+                                   {
+                                       "title":  "Intellectual property",
+                                       "copy":  "All website copy, branding, layout, and original creative assets remain the property of Zephandor unless otherwise stated and may not be reused without permission."
+                                   },
+                                   {
+                                       "title":  "Updates",
+                                       "copy":  "These terms may be updated periodically. Continued use of the website after changes are posted indicates acceptance of the revised terms."
+                                   }
+                               ]
+              },
+    "shipping":  {
+                     "meta":  {
+                                  "title":  "Shipping \u0026 Returns",
+                                  "description":  "Review Zephandor shipping expectations, return guidance, and how marketplace orders are handled through Amazon and Etsy."
+                              },
+                     "hero":  {
+                                  "eyebrow":  "Shipping \u0026 Returns",
+                                  "title":  "Straightforward guidance for delivery timelines and post-purchase support",
+                                  "copy":  "Zephandor is committed to clear expectations before checkout. Because purchases are completed on Amazon or Etsy, some shipping and return details are finalized by the marketplace where the order is placed."
+                              },
+                     "sections":  [
+                                      {
+                                          "title":  "Order processing",
+                                          "copy":  "Processing times vary by listing and marketplace. Customers should review the delivery estimate shown on the relevant Amazon or Etsy product page before placing an order."
+                                      },
+                                      {
+                                          "title":  "Shipping timelines",
+                                          "copy":  "Shipping windows depend on destination, inventory availability, and carrier conditions. Marketplace tracking information is the most reliable source for live shipping updates after purchase."
+                                      },
+                                      {
+                                          "title":  "Returns",
+                                          "copy":  "If your order was placed on Amazon or Etsy, return eligibility and the return workflow are governed by that platform\u0027s policy and the specific listing terms. Please start the request within your order account for the fastest resolution."
+                                      },
+                                      {
+                                          "title":  "Damaged or incorrect orders",
+                                          "copy":  "If an item arrives damaged or does not match the listing, contact the marketplace support channel tied to your order and keep all packaging, photos, and order details available."
+                                      },
+                                      {
+                                          "title":  "Need extra help?",
+                                          "copy":  "For general product questions before ordering, please visit the Contact page. For active orders, always begin with the marketplace where the purchase was completed."
+                                      }
+                                  ]
+                 },
+    "product":  {
+                    "meta":  {
+                                 "notFoundTitle":  "Product Not Found"
+                             },
+                    "category":  "Flagship fabric care essential",
+                    "name":  "Zephandor 2-in-1 Garment Steamer \u0026 Dry Iron",
+                    "tagline":  "Luxury-level garment care in a compact tool made for home, travel, and daily polish.",
+                    "description":  "Zephandor combines vertical steaming and dry ironing in one refined 2-in-1 design, giving you fast heat-up, fabric-friendly performance, and a more elevated way to keep clothing presentation-ready.",
+                    "features":  [
+                                     "1200W power for steady, effective wrinkle release",
+                                     "Ready in 15 seconds for quick daily touch-ups",
+                                     "65ml water tank for lightweight, travel-friendly use",
+                                     "Vertical and horizontal steaming for flexible garment care",
+                                     "Drip-free ceramic panel for smoother finishing across delicate and everyday fabrics",
+                                     "Adjustable steam output for different fabric needs",
+                                     "Auto shut-off for added confidence during use",
+                                     "Compact design suited to home storage, business trips, and vacation packing"
+                                 ],
+                    "highlights":  [
+                                       {
+                                           "label":  "Power",
+                                           "value":  "1200W"
+                                       },
+                                       {
+                                           "label":  "Fast Heat-Up",
+                                           "value":  "15s"
+                                       },
+                                       {
+                                           "label":  "Water Tank",
+                                           "value":  "65ml"
+                                       },
+                                       {
+                                           "label":  "Steam Modes",
+                                           "value":  "Vertical + horizontal"
+                                       }
+                                   ],
+                    "benefits":  [
+                                     "Keep pieces looking sharp at home without pulling out a full ironing setup.",
+                                     "Travel with one compact tool instead of packing separate steaming and pressing options.",
+                                     "Handle quick touch-ups before meetings, dinners, departures, and daily routines with less effort."
+                                 ],
+                    "featureHighlights":  [
+                                              {
+                                                  "label":  "1200W power",
+                                                  "detail":  "Strong, steady output for fast wrinkle release."
+                                              },
+                                              {
+                                                  "label":  "15s heat-up",
+                                                  "detail":  "Ready quickly when time is short and presentation matters."
+                                              },
+                                              {
+                                                  "label":  "65ml water tank",
+                                                  "detail":  "Sized for easy handling and compact travel packing."
+                                              },
+                                              {
+                                                  "label":  "Drip-free ceramic panel",
+                                                  "detail":  "Smoother contact with fabrics and a cleaner finish."
+                                              },
+                                              {
+                                                  "label":  "Adjustable steam",
+                                                  "detail":  "More control across delicate and everyday garments."
+                                              },
+                                              {
+                                                  "label":  "Auto shut-off",
+                                                  "detail":  "Added confidence for daily use and travel routines."
+                                              },
+                                              {
+                                                  "label":  "Travel-friendly design",
+                                                  "detail":  "Built to move easily between closet, suitcase, and hotel room."
+                                              }
+                                          ]
+                },
+    "faqs":  [
+                 {
+                     "question":  "What fabrics can the Zephandor 2-in-1 handle?",
+                     "answer":  "It is designed for a wide range of everyday fabrics, including cotton, linen, wool, silk, polyester, and blended garments. As with any heated fabric-care tool, delicate trims and specialty finishes should be spot-checked first."
+                 },
+                 {
+                     "question":  "How quickly is it ready to use?",
+                     "answer":  "The unit heats up in approximately 15 seconds, making it ideal for polished last-minute touch-ups before meetings, events, or travel."
+                 },
+                 {
+                     "question":  "Is it suitable for travel?",
+                     "answer":  "Yes. The compact body and 65ml water tank were selected to keep the device lightweight and easy to pack without sacrificing premium performance."
+                 },
+                 {
+                     "question":  "Where can I buy Zephandor products?",
+                     "answer":  "Zephandor products are available through carefully managed marketplace listings on Amazon and Etsy, linked directly throughout this website."
+                 },
+                 {
+                     "question":  "Does the steamer include automatic safety protection?",
+                     "answer":  "Yes. The product includes an auto shut-off function to support safer daily use and added peace of mind."
+                 },
+                 {
+                     "question":  "How do returns and delivery work?",
+                     "answer":  "Order processing, delivery timelines, and return policies may vary slightly by sales channel. Our Shipping \u0026 Returns page outlines the standard Zephandor policy and explains how Amazon and Etsy orders are handled."
+                 }
+             ],
+    "notFound":  {
+                     "title":  "This page could not be found.",
+                     "copy":  "The link may have changed, or the page may no longer be available. You can head back to the homepage or continue browsing the product collection.",
+                     "goHome":  "Go Home",
+                     "viewProducts":  "View Products"
+                 }
+}

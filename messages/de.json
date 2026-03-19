@@ -1,0 +1,436 @@
+{
+    "meta":  {
+                 "defaultTitle":  "Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen | Tragbare 1200W Textilpflege für unterwegs",
+                 "titleTemplate":  "%s | Zephandor",
+                 "defaultDescription":  "Entdecken Sie den Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen mit 1200W Leistung, 15-Sekunden-Aufheizzeit, 65ml Wassertank, regulierbarem Dampf und reisefreundlicher Leistung für moderne Textilpflege.",
+                 "ogTitle":  "Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen",
+                 "ogDescription":  "Premium-Textilpflege im kompakten Design. Schnelle Aufheizzeit, regulierbarer Dampf, Trockenbügelmodus und moderner Komfort für unterwegs."
+             },
+    "nav":  {
+                "home":  "Startseite",
+                "products":  "Produkte",
+                "about":  "Über uns",
+                "faq":  "FAQ",
+                "contact":  "Kontakt",
+                "exploreProducts":  "Produkte entdecken",
+                "shopNow":  "Jetzt kaufen",
+                "languageLabel":  "Sprache"
+            },
+    "footer":  {
+                   "brandCopy":  "Premium-Textilpflege für einen gepflegten Alltag. Zephandor entwickelt raffinierte Werkzeuge, die Kleidung bewusst, frisch und sofort tragbar wirken lassen.",
+                   "follow":  "Zephandor folgen",
+                   "navigate":  "Navigation",
+                   "shop":  "Kaufen",
+                   "support":  "Support",
+                   "socialProof":  "Geschätzt von modernen Haushalten, die zu Hause und unterwegs auf gepflegte Textilpflege setzen.",
+                   "copyright":  "© 2026 Zephandor. Alle Rechte vorbehalten.",
+                   "tagline":  "Entwickelt für einen hochwertigen Markenauftritt, bessere Marketplace-Conversion und skalierbare Bereitstellung."
+               },
+    "legal":  {
+                  "privacyPolicy":  "Datenschutzerklärung",
+                  "termsOfService":  "Nutzungsbedingungen",
+                  "shippingReturns":  "Versand \u0026 Rückgaben"
+              },
+    "common":  {
+                   "buyOnEtsy":  "Auf Etsy kaufen",
+                   "buyOnAmazon":  "Auf Amazon kaufen",
+                   "viewDetails":  "Details ansehen",
+                   "viewAllFaqs":  "Alle FAQs ansehen",
+                   "contactZephandor":  "Zephandor kontaktieren",
+                   "contactSupport":  "Support kontaktieren",
+                   "askAQuestion":  "Frage stellen",
+                   "productFocus":  "Produktfokus",
+                   "whereToBuy":  "Wo kaufen",
+                   "exploreFullProductPage":  "Komplette Produktseite ansehen",
+                   "keyFeatures":  "Wichtige Merkmale",
+                   "whyCustomersChooseIt":  "Warum Kunden es wählen",
+                   "productNotFound":  "Produkt nicht gefunden"
+               },
+    "home":  {
+                 "meta":  {
+                              "title":  "Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen | Tragbare 1200W Textilpflege für unterwegs",
+                              "description":  "Entdecken Sie den Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen mit 1200W Leistung, 15-Sekunden-Aufheizzeit, 65ml Wassertank, regulierbarem Dampf und reisefreundlicher Leistung für moderne Textilpflege."
+                          },
+                 "hero":  {
+                              "eyebrow":  "Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen",
+                              "title":  "Premium-Textilpflege für gepflegte Morgen, volle Tage und besseres Reisen.",
+                              "copy":  "Ein elegantes 1200W 2-in-1 Gerät, das in 15 Sekunden aufheizt, vertikales und horizontales Dämpfen ermöglicht und Kleidung ohne das Gewicht einer klassischen Bügelstation glatt und präsentabel hält.",
+                              "viewProductDetails":  "Produktdetails ansehen"
+                          },
+                 "trustStrip":  [
+                                    {
+                                        "label":  "2-in-1 Funktion",
+                                        "copy":  "Vertikales Dampfen und Trockenbügeln in einem kompakten Premium-Gerät."
+                                    },
+                                    {
+                                        "label":  "Schnell einsatzbereit",
+                                        "copy":  "15-Sekunden-Aufheizzeit für Momente, in denen Sie geschniegelt das Haus verlassen müssen."
+                                    },
+                                    {
+                                        "label":  "Textilpflege",
+                                        "copy":  "Die tropffreie Keramikplatte und regulierbarer Dampf helfen, die Oberfläche Ihrer Kleidung zu schützen."
+                                    },
+                                    {
+                                        "label":  "Kaufbereitschaft",
+                                        "copy":  "Kaufen Sie über das aktive Etsy-Angebot oder direkt auf Amazon über die offizielle Zephandor-Produktseite."
+                                    }
+                                ],
+                 "featureSection":  {
+                                        "eyebrow":  "Highlights",
+                                        "title":  "Alles Wichtige, konzentriert in einem eleganten Format für den Alltag",
+                                        "copy":  "Zephandor ist nicht nur kompakt. Jede Spezifikation wurde bewusst gewählt, um schnelle Leistung, sauberere Handhabung und mehr elegante Vielseitigkeit für Zuhause und unterwegs zu bieten.",
+                                        "detailLabel":  "Zephandor Detail"
+                                    },
+                 "technology":  {
+                                    "eyebrow":  "Technologie",
+                                    "title":  "Eine visuelle Bestätigung dafür, wie Zephandor arbeitet",
+                                    "copy":  "Die Technikgeschichte wird jetzt von echten Produktbildern getragen und zeigt sowohl das Dampfsystem als auch die LED-Steuerung, ohne die Premium-Struktur der Seite zu verändern."
+                                },
+                 "featuredProduct":  {
+                                         "eyebrow":  "Hauptprodukt",
+                                         "title":  "Die Produktseite sollte sich wie das Produkt selbst anfühlen: souverän, hochwertig und bereit zu konvertieren",
+                                         "copy":  "Dieser zentrale Bereich stellt den Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen in den Mittelpunkt des Markenerlebnisses, mit klareren Kaufwegen und einer hochwertigeren Produktgeschichte."
+                                     },
+                 "why":  {
+                             "eyebrow":  "Warum Zephandor",
+                             "title":  "Ein klarerer und hochwertigerer Standard für die Textilpflege im Alltag",
+                             "copy":  "Zephandor richtet sich an Kunden, die möchten, dass ihre Essentials durchdacht wirken. Wir verbinden zurückhaltende Premium-Ästhetik, praktische Leistung und klare Kaufwege zu einem fokussierten Markenerlebnis.",
+                             "items":  [
+                                           {
+                                               "title":  "Premium-Praktikabilität",
+                                               "copy":  "Zephandor konzentriert sich auf die Details, die den Alltag aufwerten: klare Form, schnelle Einsatzbereitschaft und starke Leistung ohne die Sperrigkeit klassischer Bügel-Setups."
+                                           },
+                                           {
+                                               "title":  "Für echte Routinen gemacht",
+                                               "copy":  "Vom vertikalen Dämpfen zu Hause bis zu horizontalen Touch-ups im Hotelzimmer passt sich das 2-in-1 Format der realen Pflege moderner Garderoben an."
+                                           },
+                                           {
+                                               "title":  "Eine Marke für Vertrauen",
+                                               "copy":  "Klare Produktinformationen, direkter Kaufimpuls und eine zurückhaltende Premium-Ästhetik geben Kunden vom ersten Eindruck bis zum Checkout mehr Sicherheit."
+                                           }
+                                       ]
+                         },
+                 "performance":  {
+                                     "eyebrow":  "Leistung",
+                                     "title":  "Sichtbare Faltenreduzierung durch kompakte 1200W Leistung",
+                                     "copy":  "Der Zephandor 2-in-1 ist für reale Situationen gebaut, nicht nur für technische Daten. Er passt in die Morgenroutine zu Hause, in die kurze Vorbereitung vor einem Termin und in den Koffer, wenn Platz zählt."
+                                 },
+                 "useCases":  [
+                                  {
+                                      "title":  "Zuhause",
+                                      "copy":  "Frischen Sie Business-Kleidung, besondere Stücke, Vorhänge und Alltagskleidung mit einem kompakten Gerät auf, das man gern griffbereit hat."
+                                  },
+                                  {
+                                      "title":  "Geschäftsreisen",
+                                      "copy":  "Reisen Sie mit einer gepflegteren Garderobe an, ohne sich vor Meetings oder Veranstaltungen auf unzuverlässige Hotelbügeleisen verlassen zu müssen."
+                                  },
+                                  {
+                                      "title":  "Urlaubsgepäck",
+                                      "copy":  "Reisen Sie leichter mit einem kompakten 2-in-1 Gerät, das Dampf und Trocken-Touch-ups übernimmt, wenn der Platz begrenzt ist."
+                                  },
+                                  {
+                                      "title":  "Schnelle tägliche Touch-ups",
+                                      "copy":  "Nutzen Sie die 15-Sekunden-Aufheizzeit, um Kragen, Säume und letzte Falten kurz vor dem Losgehen zu glätten."
+                                  }
+                              ],
+                 "fabricCompatibility":  {
+                                             "eyebrow":  "Stoffkompatibilität",
+                                             "title":  "Sicher für die Stoffarten, die Kunden am häufigsten benötigen",
+                                             "copy":  "Der Kompatibilitätsbereich nutzt nun direkt die Produktbilder, damit die Stoffeignung visuell klarer vermittelt wird und zugleich die hochwertige Klarheit des Zephandor-Erlebnisses erhalten bleibt."
+                                         },
+                 "faqPreview":  {
+                                    "eyebrow":  "FAQ Vorschau",
+                                    "title":  "Einige schnelle Antworten, bevor Sie Ihren Kaufkanal wählen",
+                                    "copy":  "Das Ziel ist eine sicherere Entscheidung: klare Produktfakten, klare Erwartungen und schneller Zugang zu den Informationen, die Kunden meist vor dem Kauf suchen."
+                                },
+                 "shop":  {
+                              "eyebrow":  "Zephandor kaufen",
+                              "title":  "Wählen Sie das Live-Angebot, das am besten zu Ihrer Kaufweise passt, mit Amazon und Etsy als offiziellen Bezugsquellen.",
+                              "copy":  "Das Etsy-Angebot ist für den Direktkauf aktiv. Amazon ist ebenfalls als direkter Kaufkanal verfügbar und bietet zwei vertrauenswürdige Wege zum Kauf, ohne das Zephandor-Markenerlebnis zu verändern.",
+                              "buyOnEtsy":  "Zephandor auf Etsy kaufen"
+                          }
+             },
+    "about":  {
+                  "meta":  {
+                               "title":  "Über uns",
+                               "description":  "Erfahren Sie mehr über Zephandors hochwertigen, modernen Ansatz für Textilpflege und Kundenvertrauen."
+                           },
+                  "hero":  {
+                               "eyebrow":  "Über Zephandor",
+                               "title":  "Eine Premium-Marke für Textilpflege, geprägt von Souveränität, Komfort und modernem Vertrauen",
+                               "copy":  "Zephandor möchte Textilpflege leichter, sauberer und bewusster machen. Wir entwickeln für Kunden, die gepflegte Ergebnisse zu Hause, in kleinen Räumen und auf Reisen erwarten."
+                           },
+                  "title":  "Entwickelt für die Details, die Menschen bemerken",
+                  "paragraphs":  [
+                                     "Vom faltenfreien Kragen bis zum sicheren Gefühl, gut vorbereitet hinauszugehen: Zephandor konzentriert sich auf jene Momente, in denen Textilpflege den Alltag leise verbessert. Unsere Produkte werden ausgewählt und präsentiert, um genau dieses Gefühl von Bereitschaft zu unterstützen.",
+                                     "Wir verstehen auch, wo heute viele Käufe stattfinden. Deshalb wurde diese Website so aufgebaut, dass sie ein hochwertiges Markenerlebnis schafft und Kunden gleichzeitig nahtlos zu unseren Amazon- und Etsy-Angeboten führt."
+                                 ],
+                  "principles":  [
+                                     {
+                                         "title":  "Vertrauen durch Klarheit",
+                                         "copy":  "Wir präsentieren Produkte, Richtlinien und Marketplace-Links in klarer Sprache, damit Kunden genau wissen, was sie erwartet."
+                                     },
+                                     {
+                                         "title":  "Premium ohne Übertreibung",
+                                         "copy":  "Unsere Designsprache ist minimal und kontrolliert, weil Qualität souverän wirken sollte und nicht überladen."
+                                     },
+                                     {
+                                         "title":  "Nützlichkeit mit Eleganz",
+                                         "copy":  "Zephandor-Produkte sind für reale Routinen gemacht, in denen starke Leistung und visuelle Raffinesse zusammengehören."
+                                     }
+                                 ]
+              },
+    "productsPage":  {
+                         "meta":  {
+                                      "title":  "Produkte",
+                                      "description":  "Entdecken Sie die Premium-Textilpflegeprodukte von Zephandor, einschließlich des 2-in-1 Dampfglätters \u0026 Trockenbügeleisens."
+                                  },
+                         "hero":  {
+                                      "eyebrow":  "Produkte",
+                                      "title":  "Professionelle Textilpflege, auf das Wesentliche reduziert",
+                                      "copy":  "Durchsuchen Sie Zephandor-Produkte, die für bessere Ergebnisse, sauberere Routinen und direkte Kaufwege über vertrauenswürdige Marktplätze entwickelt wurden."
+                                  }
+                     },
+    "faqPage":  {
+                    "meta":  {
+                                 "title":  "FAQ",
+                                 "description":  "Lesen Sie häufige Fragen zu Zephandor-Produkten, Bestellkanälen, Stoffen, Reisenutzung und Support."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Häufig gestellte Fragen",
+                                 "title":  "Klare Antworten für einen sicheren Kauf",
+                                 "copy":  "Hier finden Sie Details zu Produktleistung, unterstützten Stoffen, Reisenutzung und dazu, wie Zephandor-Bestellungen über Amazon und Etsy abgewickelt werden."
+                             }
+                },
+    "contact":  {
+                    "meta":  {
+                                 "title":  "Kontakt",
+                                 "description":  "Kontaktieren Sie Zephandor bei Produktfragen, Support-Anliegen oder Fragen zu Marktplätzen vor dem Kauf."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Kontakt",
+                                 "title":  "Kontaktieren Sie Zephandor mit Vertrauen",
+                                 "copy":  "Egal, ob Sie Hilfe bei der Wahl des richtigen Kaufkanals benötigen oder Fragen zur Eignung des Produkts haben – unser Team unterstützt Sie gern bei einem reibungslosen Erlebnis."
+                             },
+                    "supportInformation":  "Support-Informationen",
+                    "responseWindowValue":  "Montag bis Freitag, innerhalb von 1 bis 2 Werktagen",
+                    "contactItems":  {
+                                         "supportEmail":  "Support-E-Mail",
+                                         "phone":  "Telefon",
+                                         "responseWindow":  "Antwortzeit"
+                                     },
+                    "officialPurchaseChannels":  "Offizielle Kaufkanäle",
+                    "beforeReachOut":  "Bevor Sie uns schreiben",
+                    "beforeReachOutCopy":  "Für auftragsbezogene Updates, Rückgaben oder Versandfragen zu einem bestehenden Amazon- oder Etsy-Kauf ist in der Regel das Nachrichtencenter des Marktplatzes, über den die Bestellung aufgegeben wurde, der schnellste Weg. Wenn Sie noch entscheiden, wo Sie kaufen möchten, oder allgemeine Produktberatung benötigen, ist der Support per E-Mail ideal.",
+                    "suggestedTopics":  "Empfohlene E-Mail-Themen",
+                    "topics":  [
+                                   "Produktkompatibilität für bestimmte Stoffe",
+                                   "Beratung zur Wahl zwischen Amazon und Etsy",
+                                   "Allgemeine Fragen zu Pflege, Einrichtung oder Nutzung",
+                                   "Anfragen zu Großhandel oder Kooperationen"
+                               ]
+                },
+    "privacy":  {
+                    "meta":  {
+                                 "title":  "Datenschutzerklärung",
+                                 "description":  "Lesen Sie die Zephandor-Datenschutzerklärung zu Website-Daten, Kontaktanfragen und Marketplace-bezogener Kundenkommunikation."
+                             },
+                    "hero":  {
+                                 "eyebrow":  "Datenschutzerklärung",
+                                 "title":  "Wie Zephandor mit Informationen sorgfältig umgeht",
+                                 "copy":  "Diese Richtlinie erklärt, welche begrenzten Informationen über die Zephandor-Website erfasst werden und wie sie zur Kundenkommunikation und zur Verbesserung des Nutzungserlebnisses verwendet werden können."
+                             },
+                    "sections":  [
+                                     {
+                                         "title":  "Welche Informationen wir erfassen",
+                                         "copy":  "Zephandor kann Informationen erfassen, die Sie freiwillig bereitstellen, etwa Ihren Namen, Ihre E-Mail-Adresse und den Inhalt Ihrer Nachricht, wenn Sie uns kontaktieren. Auch grundlegende technische Daten wie Browsertyp, Geräteinformationen und Seitenaktivitäten können für Analysen und die Website-Performance erfasst werden."
+                                     },
+                                     {
+                                         "title":  "Wie Informationen verwendet werden",
+                                         "copy":  "Informationen werden genutzt, um Supportanfragen zu beantworten, die Website-Leistung zu verbessern, Sicherheit zu gewährleisten und besser zu verstehen, welche Seiten und Produktdetails für Besucher besonders hilfreich sind."
+                                     },
+                                     {
+                                         "title":  "Käufe über Marktplätze",
+                                         "copy":  "Käufe über Amazon oder Etsy unterliegen zusätzlich den Datenschutzpraktiken dieser Plattformen. Zephandor kontrolliert die unabhängigen Richtlinien von Drittanbieter-Marktplätzen nicht."
+                                     },
+                                     {
+                                         "title":  "Datenweitergabe",
+                                         "copy":  "Zephandor verkauft keine personenbezogenen Daten. Begrenzte Daten können an Dienstleister weitergegeben werden, die beim Betrieb der Website, bei Analysen oder bei der Kommunikation helfen – jedoch nur, wenn dies vernünftigerweise notwendig ist."
+                                     },
+                                     {
+                                         "title":  "Ihre Wahlmöglichkeiten",
+                                         "copy":  "Sie können Zephandor kontaktieren, um die Aktualisierung oder Löschung von Informationen zu beantragen, die Sie zuvor über diese Website bereitgestellt haben, vorbehaltlich gesetzlicher und betrieblicher Anforderungen."
+                                     }
+                                 ]
+                },
+    "terms":  {
+                  "meta":  {
+                               "title":  "Nutzungsbedingungen",
+                               "description":  "Lesen Sie die Zephandor-Bedingungen zur Nutzung der Website, zu Produktinformationen, zu Käufen über Drittanbieter-Marktplätze und zu den Pflichten der Kunden."
+                           },
+                  "hero":  {
+                               "eyebrow":  "Nutzungsbedingungen",
+                               "title":  "Die Bedingungen für die Nutzung der Zephandor-Website",
+                               "copy":  "Diese Bedingungen erläutern, wie Besucher die Zephandor-Website nutzen dürfen, wie Produktinformationen dargestellt werden und wie Käufe über Drittanbieter-Marktplätze abgewickelt werden."
+                           },
+                  "sections":  [
+                                   {
+                                       "title":  "Nutzung der Website",
+                                       "copy":  "Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, sie rechtmäßig und so zu verwenden, dass Zugriff, Sicherheit und Erlebnis anderer Besucher nicht beeinträchtigt werden."
+                                   },
+                                   {
+                                       "title":  "Produktinformationen",
+                                       "copy":  "Zephandor bemüht sich um korrekte und aktuelle Produktinformationen, doch Spezifikationen, Verfügbarkeit, Preise und Angebotsdetails können sich ohne Vorankündigung ändern. Maßgeblich sind die Informationen des Angebots, das zum Zeitpunkt des Kaufs aktiv ist."
+                                   },
+                                   {
+                                       "title":  "Marktplatz-Transaktionen",
+                                       "copy":  "Käufe über Amazon oder Etsy werden durch deren Checkout-Prozesse, Bedingungen und Käuferschutzregelungen geregelt. Zephandor ist nicht verantwortlich für Ausfälle, Richtlinienänderungen oder Kontoprobleme dieser Plattformen."
+                                   },
+                                   {
+                                       "title":  "Geistiges Eigentum",
+                                       "copy":  "Alle Website-Texte, Markenelemente, Layouts und ursprünglichen kreativen Inhalte bleiben Eigentum von Zephandor, sofern nicht anders angegeben, und dürfen ohne Genehmigung nicht wiederverwendet werden."
+                                   },
+                                   {
+                                       "title":  "Aktualisierungen",
+                                       "copy":  "Diese Bedingungen können regelmäßig aktualisiert werden. Die weitere Nutzung der Website nach Veröffentlichung von Änderungen gilt als Zustimmung zu den überarbeiteten Bedingungen."
+                                   }
+                               ]
+              },
+    "shipping":  {
+                     "meta":  {
+                                  "title":  "Versand \u0026 Rückgaben",
+                                  "description":  "Lesen Sie Zephandors Hinweise zu Versand, Rückgaben und zur Abwicklung von Bestellungen über Amazon und Etsy."
+                              },
+                     "hero":  {
+                                  "eyebrow":  "Versand \u0026 Rückgaben",
+                                  "title":  "Klare Hinweise zu Lieferzeiten und Support nach dem Kauf",
+                                  "copy":  "Zephandor legt Wert auf klare Erwartungen vor dem Checkout. Da Käufe über Amazon oder Etsy abgeschlossen werden, werden einige Versand- und Rückgabedetails vom jeweiligen Marktplatz festgelegt."
+                              },
+                     "sections":  [
+                                      {
+                                          "title":  "Bestellbearbeitung",
+                                          "copy":  "Die Bearbeitungszeiten variieren je nach Angebot und Marktplatz. Kunden sollten vor der Bestellung die auf der jeweiligen Amazon- oder Etsy-Produktseite angezeigte Lieferprognose prüfen."
+                                      },
+                                      {
+                                          "title":  "Lieferzeiten",
+                                          "copy":  "Die Versandzeiten hängen von Zielort, Lagerbestand und Bedingungen des Versanddienstleisters ab. Die Tracking-Informationen des Marktplatzes sind nach dem Kauf die zuverlässigste Quelle für aktuelle Lieferinformationen."
+                                      },
+                                      {
+                                          "title":  "Rückgaben",
+                                          "copy":  "Wenn Ihre Bestellung über Amazon oder Etsy aufgegeben wurde, richten sich Rückgabeberechtigung und Rückgabeprozess nach den Richtlinien dieser Plattform und den Bedingungen des jeweiligen Angebots. Starten Sie die Anfrage möglichst direkt in Ihrem Bestellkonto, um die schnellste Lösung zu erhalten."
+                                      },
+                                      {
+                                          "title":  "Beschädigte oder falsche Bestellungen",
+                                          "copy":  "Wenn ein Artikel beschädigt ankommt oder nicht dem Angebot entspricht, kontaktieren Sie den Support des Marktplatzes Ihrer Bestellung und halten Sie Verpackung, Fotos und Bestelldetails bereit."
+                                      },
+                                      {
+                                          "title":  "Brauchen Sie zusätzliche Hilfe?",
+                                          "copy":  "Für allgemeine Produktfragen vor der Bestellung besuchen Sie bitte die Kontaktseite. Bei aktiven Bestellungen wenden Sie sich immer zuerst an den Marktplatz, über den der Kauf abgeschlossen wurde."
+                                      }
+                                  ]
+                 },
+    "product":  {
+                    "meta":  {
+                                 "notFoundTitle":  "Produkt nicht gefunden"
+                             },
+                    "category":  "Zentrales Essential für Stoffpflege",
+                    "name":  "Zephandor 2-in-1 Dampfglätter \u0026 Trockenbügeleisen",
+                    "tagline":  "Textilpflege auf Premium-Niveau in einem kompakten Gerät für Zuhause, Reisen und den täglichen Feinschliff.",
+                    "description":  "Zephandor vereint vertikales Dämpfen und Trockenbügeln in einem eleganten 2-in-1 Design und bietet schnelle Aufheizzeit, stoffschonende Leistung und eine hochwertigere Art, Kleidung jederzeit präsentabel zu halten.",
+                    "features":  [
+                                     "1200W Leistung für gleichmäßige und effektive Faltenentfernung",
+                                     "In 15 Sekunden einsatzbereit für schnelle tägliche Touch-ups",
+                                     "65ml Wassertank für leichte, reisefreundliche Nutzung",
+                                     "Vertikales und horizontales Dämpfen für flexible Textilpflege",
+                                     "Tropffreie Keramikplatte für glattere Ergebnisse auf empfindlichen und alltäglichen Stoffen",
+                                     "Regulierbarer Dampfausstoß für unterschiedliche Stoffanforderungen",
+                                     "Automatische Abschaltung für zusätzliche Sicherheit bei der Nutzung",
+                                     "Kompaktes Design für Aufbewahrung zu Hause, Geschäftsreisen und Urlaubsgepäck"
+                                 ],
+                    "highlights":  [
+                                       {
+                                           "label":  "Leistung",
+                                           "value":  "1200W"
+                                       },
+                                       {
+                                           "label":  "Schnelles Aufheizen",
+                                           "value":  "15s"
+                                       },
+                                       {
+                                           "label":  "Wassertank",
+                                           "value":  "65ml"
+                                       },
+                                       {
+                                           "label":  "Dampfmodi",
+                                           "value":  "Vertikal + horizontal"
+                                       }
+                                   ],
+                    "benefits":  [
+                                     "Halten Sie Ihre Kleidung zu Hause gepflegt, ohne ein komplettes Bügel-Setup hervorzuholen.",
+                                     "Reisen Sie mit einem kompakten Gerät, statt separate Lösungen für Dampf und Pressen einzupacken.",
+                                     "Erledigen Sie Touch-ups vor Meetings, Abendessen, Abreisen und im Alltag mit weniger Aufwand."
+                                 ],
+                    "featureHighlights":  [
+                                              {
+                                                  "label":  "1200W Leistung",
+                                                  "detail":  "Starker, gleichmäßiger Ausstoß für schnelle Faltenentfernung."
+                                              },
+                                              {
+                                                  "label":  "15s Aufheizzeit",
+                                                  "detail":  "Schnell einsatzbereit, wenn wenig Zeit bleibt und ein gepflegter Eindruck zählt."
+                                              },
+                                              {
+                                                  "label":  "65ml Wassertank",
+                                                  "detail":  "Ideal dimensioniert für leichte Handhabung und kompaktes Verstauen im Gepäck."
+                                              },
+                                              {
+                                                  "label":  "Tropffreie Keramikplatte",
+                                                  "detail":  "Sanfterer Kontakt mit Stoffen und ein saubereres Finish."
+                                              },
+                                              {
+                                                  "label":  "Regulierbarer Dampf",
+                                                  "detail":  "Mehr Kontrolle bei empfindlichen Stoffen und Alltagskleidung."
+                                              },
+                                              {
+                                                  "label":  "Automatische Abschaltung",
+                                                  "detail":  "Mehr Sicherheit und Ruhe im Alltag und auf Reisen."
+                                              },
+                                              {
+                                                  "label":  "Reisefreundliches Design",
+                                                  "detail":  "Gemacht für den Wechsel zwischen Kleiderschrank, Koffer und Hotelzimmer."
+                                              }
+                                          ]
+                },
+    "faqs":  [
+                 {
+                     "question":  "Für welche Stoffe ist der Zephandor 2-in-1 geeignet?",
+                     "answer":  "Er ist für viele alltägliche Stoffe ausgelegt, darunter Baumwolle, Leinen, Wolle, Seide, Polyester und Mischgewebe. Wie bei jedem beheizten Textilpflegegerät sollten empfindliche Verzierungen und besondere Oberflächen zuerst an einer unauffälligen Stelle getestet werden."
+                 },
+                 {
+                     "question":  "Wie schnell ist das Gerät einsatzbereit?",
+                     "answer":  "Das Gerät heizt in etwa 15 Sekunden auf und eignet sich damit ideal für gepflegte Last-Minute-Touch-ups vor Meetings, Veranstaltungen oder Reisen."
+                 },
+                 {
+                     "question":  "Ist es für Reisen geeignet?",
+                     "answer":  "Ja. Das kompakte Gehäuse und der 65ml Wassertank wurden bewusst gewählt, um das Gerät leicht und gut verstaubar zu halten, ohne auf Premium-Leistung zu verzichten."
+                 },
+                 {
+                     "question":  "Wo kann ich Zephandor-Produkte kaufen?",
+                     "answer":  "Zephandor-Produkte sind über sorgfältig gepflegte Marketplace-Angebote auf Amazon und Etsy erhältlich, die direkt auf dieser Website verlinkt sind."
+                 },
+                 {
+                     "question":  "Verfügt der Dampfglätter über eine automatische Sicherheitsfunktion?",
+                     "answer":  "Ja. Das Produkt verfügt über eine automatische Abschaltfunktion für eine sicherere tägliche Nutzung und mehr Sicherheit im Alltag."
+                 },
+                 {
+                     "question":  "Wie funktionieren Rückgaben und Lieferung?",
+                     "answer":  "Bestellabwicklung, Lieferzeiten und Rückgaberichtlinien können je nach Verkaufskanal leicht variieren. Unsere Seite Versand \u0026 Rückgaben erklärt die allgemeine Zephandor-Richtlinie und wie Amazon- und Etsy-Bestellungen behandelt werden."
+                 }
+             ],
+    "notFound":  {
+                     "title":  "Diese Seite wurde nicht gefunden.",
+                     "copy":  "Der Link hat sich möglicherweise geändert oder die Seite ist nicht mehr verfügbar. Sie können zur Startseite zurückkehren oder die Produktkollektion weiter durchsuchen.",
+                     "goHome":  "Zur Startseite",
+                     "viewProducts":  "Produkte ansehen"
+                 }
+}

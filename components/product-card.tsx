@@ -2,8 +2,10 @@ import Link from "next/link";
 
 import { CtaButton } from "@/components/cta-button";
 import type { Product } from "@/data/products";
+import type { Locale, Messages } from "@/lib/i18n";
+import { getLocalePath } from "@/lib/i18n";
 
-export function ProductCard({ product }: { product: Product }) {
+export function ProductCard({ product, locale, messages }: { product: Product; locale: Locale; messages: Messages }) {
   return (
     <article className="card-surface overflow-hidden border border-black/5 bg-white/95">
       <div className="grid gap-8 p-6 sm:p-8 lg:grid-cols-[1.08fr_0.92fr] lg:p-10">
@@ -25,7 +27,7 @@ export function ProductCard({ product }: { product: Product }) {
         </div>
         <div className="flex flex-col justify-between">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.24em] text-purple-700">Product Focus</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.24em] text-purple-700">{messages.common.productFocus}</p>
             <p className="mt-4 text-lg font-medium leading-8 text-surface">{product.tagline}</p>
             <ul className="mt-8 space-y-4 text-sm leading-7 text-slate-600">
               {product.features.slice(0, 6).map((feature) => (
@@ -37,21 +39,21 @@ export function ProductCard({ product }: { product: Product }) {
             </ul>
           </div>
           <div className="mt-10 rounded-[24px] border border-purple-100 bg-haze/70 p-5">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-purple-700">Where to buy</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-purple-700">{messages.common.whereToBuy}</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <CtaButton href={product.etsyUrl} external>
-                Buy on Etsy
+                {messages.common.buyOnEtsy}
               </CtaButton>
               <CtaButton href={product.amazonUrl} variant="secondary" external disabled={!product.amazonUrl}>
-                {product.amazonCtaLabel ?? "Buy on Amazon"}
+                {product.amazonCtaLabel ?? messages.common.buyOnAmazon}
               </CtaButton>
-              <CtaButton href={`/products/${product.slug}`} variant="secondary">
-                View Details
+              <CtaButton href={getLocalePath(locale, `/products/${product.slug}`)} variant="secondary">
+                {messages.common.viewDetails}
               </CtaButton>
             </div>
           </div>
-          <Link href={`/products/${product.slug}`} className="mt-5 text-sm font-semibold text-surface underline-offset-4 hover:underline">
-            Explore the full product page
+          <Link href={getLocalePath(locale, `/products/${product.slug}`)} className="mt-5 text-sm font-semibold text-surface underline-offset-4 hover:underline">
+            {messages.common.exploreFullProductPage}
           </Link>
         </div>
       </div>
