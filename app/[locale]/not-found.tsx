@@ -4,10 +4,16 @@ import { notFound } from "next/navigation";
 import { CtaButton } from "@/components/cta-button";
 import { getLocalePath, getMessagesSync, isLocale } from "@/lib/i18n";
 
-export default function LocaleNotFound({ params }: { params: { locale: string } }) {
-  const { locale } = params;
+type LocaleNotFoundProps = {
+  params?: {
+    locale?: string;
+  };
+};
 
-  if (!isLocale(locale)) {
+export default function LocaleNotFound({ params }: LocaleNotFoundProps) {
+  const locale = params?.locale;
+
+  if (!locale || !isLocale(locale)) {
     notFound();
   }
 

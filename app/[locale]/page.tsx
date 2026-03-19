@@ -9,16 +9,22 @@ import { SectionHeading } from "@/components/section-heading";
 import { SiteImage } from "@/components/site-image";
 import { getFaqs } from "@/data/faqs";
 import { getFeaturedProduct } from "@/data/products";
-import { Locale, getLocalePath, getMessages, isLocale } from "@/lib/i18n";
+import { getLocalePath, getMessages, isLocale } from "@/lib/i18n";
 import { buildMetadata } from "@/lib/metadata";
 import { siteConfig } from "@/lib/site";
 
 const socialImage = "/images/hero-steamer.jpg";
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
-  const { locale } = await params;
+type LocalePageProps = {
+  params?: {
+    locale?: string;
+  };
+};
 
-  if (!isLocale(locale)) {
+export async function generateMetadata({ params }: LocalePageProps): Promise<Metadata> {
+  const locale = params?.locale;
+
+  if (!locale || !isLocale(locale)) {
     return {};
   }
 
@@ -26,10 +32,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return buildMetadata({ locale, title: messages.home.meta.title, description: messages.home.meta.description });
 }
 
-export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
+export default async function HomePage({ params }: LocalePageProps) {
+  const locale = params?.locale;
 
-  if (!isLocale(locale)) {
+  if (!locale || !isLocale(locale)) {
     notFound();
   }
 

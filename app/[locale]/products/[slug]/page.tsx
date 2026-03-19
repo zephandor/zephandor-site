@@ -8,13 +8,25 @@ import { getProducts, productRoutes } from "@/data/products";
 import { buildMetadata } from "@/lib/metadata";
 import { getMessages, isLocale } from "@/lib/i18n";
 
+type ProductPageProps = {
+  params?: {
+    locale?: string;
+    slug?: string;
+  };
+};
+
 export function generateStaticParams() {
   return productRoutes.flatMap((slug) => ["en", "fr", "de", "es"].map((locale) => ({ locale, slug })));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
-  const { locale, slug } = await params;
-  if (!isLocale(locale)) return {};
+export async function generateMetadata({ params }: ProductPageProps): Promise<Metadata> {
+  const locale = params?.locale;
+  const slug = params?.slug;
+
+  if (!locale || !slug || !isLocale(locale)) {
+    return {};
+  }
+
   const messages = await getMessages(locale);
   const product = getProducts(messages).find((item) => item.slug === slug);
 
@@ -25,9 +37,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return buildMetadata({ locale, title: product.name, description: product.description, path: `/products/${product.slug}` });
 }
 
-export default async function ProductDetailPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
-  const { locale, slug } = await params;
-  if (!isLocale(locale)) notFound();
+export default async function ProductDetailPage({ params }: ProductPageProps) {
+  const locale = params?.locale;
+  const slug = params?.slug;
+
+  if (!locale || !slug || !isLocale(locale)) {
+    notFound();
+  }
+
   const messages = await getMessages(locale);
   const product = getProducts(messages).find((item) => item.slug === slug);
 

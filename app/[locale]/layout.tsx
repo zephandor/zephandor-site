@@ -8,14 +8,20 @@ import { buildAlternates } from "@/lib/metadata";
 import { getMessages, isLocale, locales, openGraphLocales, type Locale } from "@/lib/i18n";
 import { siteConfig } from "@/lib/site";
 
+type LocaleParams = {
+  params?: {
+    locale?: string;
+  };
+};
+
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
-  const { locale } = await params;
+export async function generateMetadata({ params }: LocaleParams): Promise<Metadata> {
+  const locale = params?.locale;
 
-  if (!isLocale(locale)) {
+  if (!locale || !isLocale(locale)) {
     return {};
   }
 
@@ -56,10 +62,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function LocaleLayout({
   children,
   params
-}: Readonly<{ children: ReactNode; params: Promise<{ locale: string }> }>) {
-  const { locale } = await params;
+}: Readonly<{ children: ReactNode; params?: { locale?: string } }>) {
+  const locale = params?.locale;
 
-  if (!isLocale(locale)) {
+  if (!locale || !isLocale(locale)) {
     notFound();
   }
 
