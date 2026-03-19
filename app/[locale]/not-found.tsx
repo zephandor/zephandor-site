@@ -2,16 +2,16 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { CtaButton } from "@/components/cta-button";
-import { getLocalePath, getMessages, isLocale } from "@/lib/i18n";
+import { getLocalePath, getMessagesSync, isLocale } from "@/lib/i18n";
 
-export default async function LocaleNotFound({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
+export default function LocaleNotFound({ params }: { params: { locale: string } }) {
+  const { locale } = params;
 
   if (!isLocale(locale)) {
     notFound();
   }
 
-  const messages = await getMessages(locale);
+  const messages = getMessagesSync(locale);
 
   return (
     <section className="container-shell py-24 sm:py-32">

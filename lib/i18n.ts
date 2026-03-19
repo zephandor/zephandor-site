@@ -1,4 +1,7 @@
 import en from "@/messages/en.json";
+import fr from "@/messages/fr.json";
+import de from "@/messages/de.json";
+import es from "@/messages/es.json";
 
 export const locales = ["en", "fr", "de", "es"] as const;
 export const defaultLocale = "en" as const;
@@ -32,6 +35,20 @@ export async function getMessages(locale: Locale): Promise<Messages> {
       return (await import("@/messages/de.json")).default;
     case "es":
       return (await import("@/messages/es.json")).default;
+    case "en":
+    default:
+      return en;
+  }
+}
+
+export function getMessagesSync(locale: Locale): Messages {
+  switch (locale) {
+    case "fr":
+      return fr;
+    case "de":
+      return de;
+    case "es":
+      return es;
     case "en":
     default:
       return en;
