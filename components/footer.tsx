@@ -17,6 +17,7 @@ export function Footer({ locale, messages }: { locale: Locale; messages: Message
 
   const legalLinks = [
     { href: getLocalePath(locale, "/privacy-policy"), label: messages.legal.privacyPolicy },
+    { href: "/privacy/amazon-ads", label: "Amazon Ads Privacy Notice" },
     { href: getLocalePath(locale, "/terms-of-service"), label: messages.legal.termsOfService },
     { href: getLocalePath(locale, "/shipping-returns"), label: messages.legal.shippingReturns }
   ];

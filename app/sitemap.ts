@@ -30,5 +30,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  return [...staticRoutes, ...localizedProducts];
+  return [
+    ...staticRoutes,
+    ...localizedProducts,
+    {
+      url: `${siteConfig.domain}/privacy/amazon-ads`,
+      lastModified: new Date("2026-08-08")
+    }
+  ];
 }

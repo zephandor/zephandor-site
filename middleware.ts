@@ -12,6 +12,7 @@ export function middleware(request: NextRequest) {
     pathname.startsWith("/api") ||
     pathname === "/robots.txt" ||
     pathname === "/sitemap.xml" ||
+    pathname === "/privacy/amazon-ads" ||
     pathname === "/favicon.ico" ||
     pathname === "/favicon.png" ||
     pathname === "/apple-touch-icon.png" ||
